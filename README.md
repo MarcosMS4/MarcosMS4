@@ -2,11 +2,16 @@
 
 Meu nome é Marcos Vinicius Moreira Silva, estou cursando a faculdade de Tecnologia da Informação.
 
-Trabalho como Suporte técnico no Mercado Expresso (Freelance).
-Prestando suporte técnico em primeira linha, resolvendo incidentes e solicitações de usuários em tempo hábil.
-Configuração e manutenção de hardware e software, garantindo a funcionalidade contínua dos sistemas.
-Suporte ao cliente interno e externo 
-Implementação de medidas proativas para melhorar a eficiência operacional e a segurança dos dados.
+Como estudante busco a oportunidade como desenvolvedor full stack, com experiência em sistemas por meio de APIs e Criação de código.
+
+Apaixonado por desafios para expandir meus conhecimentos e contribuir significativamente para o sucesso da empresa, sou curioso para buscar e compartilhar conhecimentos e informações.
+
+Buscando aprender novas soluções e alternativas para processos, serviços, produtos e clientes
+Desenvolvimento de aplicativos móveis nativos para Android e iOS.
+Conhecimento em conceitos de git e cultura DevOps
+
+Experiência com Infraestrutura de rede e os sistemas operacionais, garantindo desempenho ideal e alta disponibilidade.
+Criação e manutenção em softwares como websites, programas para computadores e sistemas operacionais
 
 ## Tecnologias que eu uso no meu dia
 
