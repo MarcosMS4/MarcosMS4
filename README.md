@@ -2,7 +2,7 @@
 
 Meu nome é Marcos Vinicius Moreira Silva, estou cursando a faculdade de Tecnologia da Informação.
 
-Como estudante busco a oportunidade como desenvolvedor full stack, com experiência em sistemas por meio de APIs e Criação de código.
+Como estudante busco a oportunidade como desenvolvedor full stack, com experiência em sistemas por meio de APIs e Criação de códigos.
 
 Apaixonado por desafios para expandir meus conhecimentos e contribuir significativamente para o sucesso da empresa, sou curioso para buscar e compartilhar conhecimentos e informações.
 
