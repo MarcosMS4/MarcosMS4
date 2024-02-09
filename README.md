@@ -1,4 +1,4 @@
-## Olá, pessoal. Sejam bem vindos ao meu GitHub 👋 !!!
+## Olá, pessoal. Sejam bem vindos ao meu GitHub 👋 !!
 
 Meu nome é Marcos Vinicius Moreira Silva, estou cursando a faculdade de Tecnologia da Informação.
 
