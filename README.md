@@ -1,17 +1,13 @@
 ## Olá, pessoal. Sejam bem vindos ao meu GitHub 👋 !!
 
-Meu nome é Marcos Vinicius Moreira Silva, estou cursando a faculdade de Tecnologia da Informação.
+Profissional de Tecnologia da Informação com experiência em análise de dados, segurança cibernética e suporte técnico. Possuo conhecimentos sólidos em Python, SQL e Microsoft Excel para manipulação e análise de dados, além de experiência em auditorias internas e avaliação de riscos de segurança da informação. Atualmente, curso Tecnologia da Informação e estou em busca de oportunidades na área de Análise de Dados e Segurança da Informação.
 
-Como estudante busco a oportunidade como desenvolvedor full stack, com experiência em sistemas por meio de APIs e Criação de códigos.
+Habilidades principais:
 
-Apaixonado por desafios para expandir meus conhecimentos e contribuir significativamente para o sucesso da empresa, sou curioso para buscar e compartilhar conhecimentos e informações.
-
-Buscando aprender novas soluções e alternativas para processos, serviços, produtos e clientes
-Desenvolvimento de aplicativos móveis nativos para Android e iOS.
-Conhecimento em conceitos de git e cultura DevOps
-
-Experiência com Infraestrutura de rede e os sistemas operacionais, garantindo desempenho ideal e alta disponibilidade.
-Criação e manutenção em softwares como websites, programas para computadores e sistemas operacionais
+Linguagens: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL), JavaScript
+Banco de Dados: Modelagem, manipulação e consultas SQL
+Ferramentas: Excel Avançado (Dashboards, VBA, Power Query), Power BI, GitHub
+Segurança da Informação: Auditorias, proteção de dados, mitigação de riscos
 
 ## Tecnologias que eu uso no meu dia
 
